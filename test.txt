@@ -1,0 +1,10 @@
+git init - inizializar
+git status - status del repositorio local
+git add <file name> - agregarlo para un futuro commit
+git add . - agrega todos los archivos para un commit
+git rm --cached - borra archivos que ya estan
+    en el área de STAGE
+git commit -m <mensaje> - confirma
+    los cambios, asigna un uuid  y confirma
+    los cambios
+git log - para ver el historial de commits
