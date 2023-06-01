@@ -12,3 +12,5 @@ git log - para ver el historial de commits
 kjbdfkjfgdhkufgd
 
 soy rama main
+
+esto mi code;
